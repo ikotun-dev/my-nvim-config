@@ -1,7 +1,0 @@
---return {
--- Plugin for TabNine
--- {
---  "codota/tabnine-nvim",
--- run = "./install.sh", -- Optional: If you need to run an installation script
---},
---}
