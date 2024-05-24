@@ -23,6 +23,7 @@ return {
   { "projekt0n/github-nvim-theme" },
   { "Mofiqul/adwaita.nvim" },
   { "sekke276/dark_flat.nvim" },
+  { "folke/tokyonight" },
 
   {
     "catppuccin/nvim",
@@ -43,7 +44,7 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "onedark_dark",
+      colorscheme = "adwaita",
     },
   },
 }
